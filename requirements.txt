@@ -1,0 +1,40 @@
+# ============ CORE ML/AI DEPENDENCIES ============
+torch>=2.1.0
+transformers>=4.35.2
+sentence-transformers>=2.2.2
+
+# ============ GGUF MODEL LOADING ============
+# llama-cpp-python for GGUF quantized models (CPU/GPU efficient)
+llama-cpp-python>=0.2.0
+
+# ============ VECTOR DATABASE - LIGHTWEIGHT ============
+# sqlite-vec: Pure C, embedded vector search (10x faster than ChromaDB for mobile)
+sqlite-vec>=0.1.1
+
+# ============ DATASET HANDLING ============
+datasets>=2.14.6
+huggingface-hub>=0.19.0
+
+# ============ INTERACTIVE UI ============
+streamlit>=1.32.0
+
+# ============ UTILITIES ============
+python-dotenv>=1.0.0
+tqdm>=4.66.1
+numpy>=1.24.3
+pillow>=10.0.0
+requests>=2.31.0
+pyyaml>=6.0.0
+typing-extensions>=4.5.0
+fsspec>=2023.10.0
+tokenizers>=0.15.0
+
+# ============ OPTIONAL: ONNX OPTIMIZATION ============
+# Uncomment for 2-3x faster embeddings (mobile optimization)
+onnxruntime>=1.16.0
+optimum>=1.14.0
+
+# ============ OPTIONAL: GPU QUANTIZATION ============
+# Only for CUDA GPU (mobile devices typically use CPU or NPU)
+# bitsandbytes>=0.41.1
+# accelerate>=0.24.1
