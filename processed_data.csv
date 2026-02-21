@@ -1,0 +1,305 @@
+Disease,Symptom_Text,Avg_Severity
+Fungal infection,itching skinrash nodalskineruptions dischromic patches,2.0
+Fungal infection,skinrash nodalskineruptions dischromic patches,2.333
+Fungal infection,itching nodalskineruptions dischromic patches,1.667
+Fungal infection,itching skinrash dischromic patches,1.333
+Fungal infection,itching skinrash nodalskineruptions,2.667
+Allergy,continuoussneezing shivering chills wateringfromeyes,4.0
+Allergy,shivering chills wateringfromeyes,4.0
+Allergy,continuoussneezing chills wateringfromeyes,3.667
+Allergy,continuoussneezing shivering wateringfromeyes,4.333
+Allergy,continuoussneezing shivering chills,4.0
+GERD,stomachpain acidity ulcersontongue vomiting cough chestpain,4.667
+GERD,stomachpain ulcersontongue vomiting cough chestpain,5.0
+GERD,stomachpain acidity vomiting cough chestpain,4.8
+GERD,stomachpain acidity ulcersontongue cough chestpain,4.6
+GERD,stomachpain acidity ulcersontongue vomiting chestpain,4.8
+GERD,stomachpain acidity ulcersontongue vomiting cough,4.2
+GERD,acidity ulcersontongue vomiting cough chestpain,4.6
+Chronic cholestasis,itching vomiting yellowishskin nausea lossofappetite abdominalpain yellowingofeyes,3.714
+Chronic cholestasis,vomiting yellowishskin nausea lossofappetite abdominalpain yellowingofeyes,4.167
+Chronic cholestasis,itching yellowishskin nausea lossofappetite abdominalpain yellowingofeyes,3.5
+Chronic cholestasis,itching vomiting nausea lossofappetite abdominalpain yellowingofeyes,3.833
+Chronic cholestasis,itching vomiting yellowishskin lossofappetite abdominalpain yellowingofeyes,3.5
+Chronic cholestasis,itching vomiting yellowishskin nausea abdominalpain yellowingofeyes,3.667
+Chronic cholestasis,itching vomiting yellowishskin nausea lossofappetite yellowingofeyes,3.667
+Chronic cholestasis,itching vomiting yellowishskin nausea lossofappetite abdominalpain,3.667
+Drug Reaction,itching skinrash stomachpain burningmicturition spotting urination,3.0
+Drug Reaction,itching stomachpain burningmicturition spotting urination,3.0
+Drug Reaction,itching skinrash burningmicturition spotting urination,2.5
+Drug Reaction,itching skinrash stomachpain spotting urination,2.25
+Drug Reaction,itching skinrash stomachpain burningmicturition,3.75
+Drug Reaction,skinrash stomachpain burningmicturition spotting urination,3.5
+Peptic ulcer diseae,vomiting lossofappetite abdominalpain passageofgases internalitching,4.4
+Peptic ulcer diseae,vomiting indigestion abdominalpain passageofgases internalitching,4.6
+Peptic ulcer diseae,indigestion lossofappetite abdominalpain passageofgases internalitching,4.4
+Peptic ulcer diseae,vomiting indigestion lossofappetite passageofgases internalitching,4.6
+Peptic ulcer diseae,vomiting indigestion lossofappetite abdominalpain internalitching,4.4
+Peptic ulcer diseae,vomiting indigestion lossofappetite abdominalpain passageofgases,4.6
+Peptic ulcer diseae,vomiting indigestion lossofappetite abdominalpain passageofgases internalitching,4.5
+AIDS,musclewasting patchesinthroat highfever extramaritalcontacts,5.25
+AIDS,patchesinthroat highfever extramaritalcontacts,6.0
+AIDS,musclewasting highfever extramaritalcontacts,5.0
+AIDS,musclewasting patchesinthroat extramaritalcontacts,4.667
+AIDS,musclewasting patchesinthroat highfever,5.333
+Diabetes,fatigue weightloss restlessness lethargy irregularsugarlevel blurredanddistortedvision obesity excessivehunger increasedappetite polyuria,4.1
+Diabetes,weightloss restlessness lethargy irregularsugarlevel blurredanddistortedvision obesity excessivehunger increasedappetite polyuria,4.111
+Diabetes,fatigue restlessness lethargy irregularsugarlevel blurredanddistortedvision obesity excessivehunger increasedappetite polyuria,4.222
+Diabetes,fatigue weightloss lethargy irregularsugarlevel blurredanddistortedvision obesity excessivehunger increasedappetite polyuria,4.0
+Diabetes,fatigue weightloss restlessness irregularsugarlevel blurredanddistortedvision obesity excessivehunger increasedappetite polyuria,4.333
+Diabetes,fatigue weightloss restlessness lethargy blurredanddistortedvision obesity excessivehunger increasedappetite polyuria,4.0
+Diabetes,fatigue weightloss restlessness lethargy irregularsugarlevel obesity excessivehunger increasedappetite polyuria,4.0
+Diabetes,fatigue weightloss restlessness lethargy irregularsugarlevel blurredanddistortedvision excessivehunger increasedappetite polyuria,4.111
+Diabetes,fatigue weightloss restlessness lethargy irregularsugarlevel blurredanddistortedvision obesity increasedappetite polyuria,4.111
+Gastroenteritis,vomiting sunkeneyes dehydration diarrhoea,4.5
+Gastroenteritis,sunkeneyes dehydration diarrhoea,4.333
+Gastroenteritis,vomiting dehydration diarrhoea,5.0
+Gastroenteritis,vomiting sunkeneyes diarrhoea,4.667
+Gastroenteritis,vomiting sunkeneyes dehydration,4.0
+Bronchial Asthma,fatigue cough highfever breathlessness familyhistory mucoidsputum,4.667
+Bronchial Asthma,cough highfever breathlessness familyhistory mucoidsputum,4.8
+Bronchial Asthma,fatigue highfever breathlessness familyhistory mucoidsputum,4.8
+Bronchial Asthma,fatigue cough breathlessness familyhistory mucoidsputum,4.2
+Bronchial Asthma,fatigue cough highfever familyhistory mucoidsputum,4.8
+Bronchial Asthma,fatigue cough highfever breathlessness mucoidsputum,4.6
+Bronchial Asthma,fatigue cough highfever breathlessness familyhistory,4.8
+Hypertension,headache chestpain dizziness lossofbalance lackofconcentration,4.2
+Hypertension,chestpain dizziness lossofbalance lackofconcentration,4.5
+Hypertension,headache dizziness lossofbalance lackofconcentration,3.5
+Hypertension,headache chestpain lossofbalance lackofconcentration,4.25
+Hypertension,headache chestpain dizziness lackofconcentration,4.25
+Hypertension,headache chestpain dizziness lossofbalance,4.5
+Migraine,acidity indigestion headache blurredanddistortedvision excessivehunger stiffneck depression irritability visualdisturbances,3.556
+Migraine,indigestion headache blurredanddistortedvision excessivehunger stiffneck depression irritability visualdisturbances,3.625
+Migraine,acidity headache blurredanddistortedvision excessivehunger stiffneck depression irritability visualdisturbances,3.375
+Migraine,acidity indigestion blurredanddistortedvision excessivehunger stiffneck depression irritability visualdisturbances,3.625
+Migraine,acidity indigestion headache excessivehunger stiffneck depression irritability visualdisturbances,3.375
+Migraine,acidity indigestion headache blurredanddistortedvision stiffneck depression irritability visualdisturbances,3.5
+Migraine,acidity indigestion headache blurredanddistortedvision excessivehunger depression irritability visualdisturbances,3.5
+Migraine,acidity indigestion headache blurredanddistortedvision excessivehunger stiffneck irritability visualdisturbances,3.625
+Migraine,acidity indigestion headache blurredanddistortedvision excessivehunger stiffneck depression visualdisturbances,3.75
+Migraine,acidity indigestion headache blurredanddistortedvision excessivehunger stiffneck depression irritability,3.625
+Cervical spondylosis,backpain weaknessinlimbs neckpain dizziness lossofbalance,4.6
+Cervical spondylosis,weaknessinlimbs neckpain dizziness lossofbalance,5.0
+Cervical spondylosis,backpain neckpain dizziness lossofbalance,4.0
+Cervical spondylosis,backpain weaknessinlimbs dizziness lossofbalance,4.5
+Cervical spondylosis,backpain weaknessinlimbs neckpain lossofbalance,4.75
+Cervical spondylosis,backpain weaknessinlimbs neckpain dizziness,4.75
+Paralysis (brain hemorrhage),vomiting headache weaknessofonebodyside alteredsensorium,3.5
+Paralysis (brain hemorrhage),headache weaknessofonebodyside alteredsensorium,3.0
+Paralysis (brain hemorrhage),vomiting weaknessofonebodyside alteredsensorium,3.667
+Paralysis (brain hemorrhage),vomiting headache alteredsensorium,3.333
+Paralysis (brain hemorrhage),vomiting headache weaknessofonebodyside,4.0
+Jaundice,itching vomiting fatigue weightloss highfever yellowishskin darkurine abdominalpain,3.875
+Jaundice,vomiting fatigue weightloss highfever yellowishskin darkurine abdominalpain,4.286
+Jaundice,itching fatigue weightloss highfever yellowishskin darkurine abdominalpain,3.714
+Jaundice,itching vomiting weightloss highfever yellowishskin darkurine abdominalpain,3.857
+Jaundice,itching vomiting fatigue highfever yellowishskin darkurine abdominalpain,4.0
+Jaundice,itching vomiting fatigue weightloss yellowishskin darkurine abdominalpain,3.429
+Jaundice,itching vomiting fatigue weightloss highfever darkurine abdominalpain,4.0
+Jaundice,itching vomiting fatigue weightloss highfever yellowishskin abdominalpain,3.857
+Jaundice,itching vomiting fatigue weightloss highfever yellowishskin darkurine,3.857
+Malaria,chills vomiting highfever sweating headache nausea musclepain,4.0
+Malaria,chills vomiting highfever sweating headache nausea diarrhoea musclepain,4.25
+Malaria,vomiting highfever sweating headache nausea diarrhoea musclepain,4.429
+Malaria,chills highfever sweating headache nausea diarrhoea musclepain,4.143
+Malaria,chills vomiting sweating headache nausea diarrhoea musclepain,3.857
+Malaria,chills vomiting highfever headache nausea diarrhoea musclepain,4.429
+Malaria,chills vomiting highfever sweating nausea diarrhoea musclepain,4.429
+Malaria,chills vomiting highfever sweating headache diarrhoea musclepain,4.143
+Chicken pox,itching skinrash fatigue lethargy highfever headache lossofappetite mildfever swelledlymphnodes malaise redspotsoverbody,4.0
+Chicken pox,skinrash fatigue lethargy highfever headache lossofappetite mildfever swelledlymphnodes malaise redspotsoverbody,4.3
+Chicken pox,itching fatigue lethargy highfever headache lossofappetite mildfever swelledlymphnodes malaise redspotsoverbody,4.1
+Chicken pox,itching skinrash lethargy highfever headache lossofappetite mildfever swelledlymphnodes malaise redspotsoverbody,4.0
+Chicken pox,itching skinrash fatigue highfever headache lossofappetite mildfever swelledlymphnodes malaise redspotsoverbody,4.2
+Chicken pox,itching skinrash fatigue lethargy headache lossofappetite mildfever swelledlymphnodes malaise redspotsoverbody,3.7
+Chicken pox,itching skinrash fatigue lethargy highfever lossofappetite mildfever swelledlymphnodes malaise redspotsoverbody,4.1
+Chicken pox,itching skinrash fatigue lethargy highfever headache mildfever swelledlymphnodes malaise redspotsoverbody,4.0
+Chicken pox,itching skinrash fatigue lethargy highfever headache lossofappetite swelledlymphnodes malaise redspotsoverbody,3.9
+Chicken pox,itching skinrash fatigue lethargy highfever headache lossofappetite mildfever malaise redspotsoverbody,3.8
+Dengue,skinrash chills jointpain vomiting fatigue highfever headache nausea lossofappetite painbehindtheeyes backpain musclepain redspotsoverbody,3.769
+Dengue,skinrash chills jointpain vomiting fatigue highfever headache nausea lossofappetite painbehindtheeyes backpain malaise redspotsoverbody,4.077
+Dengue,skinrash chills jointpain vomiting fatigue highfever headache nausea lossofappetite painbehindtheeyes backpain malaise musclepain,4.0
+Dengue,skinrash chills jointpain vomiting fatigue highfever headache nausea lossofappetite painbehindtheeyes backpain malaise musclepain redspotsoverbody,3.929
+Dengue,chills jointpain vomiting fatigue highfever headache nausea lossofappetite painbehindtheeyes backpain malaise musclepain redspotsoverbody,4.0
+Dengue,skinrash jointpain vomiting fatigue highfever headache nausea lossofappetite painbehindtheeyes backpain malaise musclepain redspotsoverbody,4.0
+Dengue,skinrash chills vomiting fatigue highfever headache nausea lossofappetite painbehindtheeyes backpain malaise musclepain redspotsoverbody,4.0
+Dengue,skinrash chills jointpain fatigue highfever headache nausea lossofappetite painbehindtheeyes backpain malaise musclepain redspotsoverbody,3.846
+Dengue,skinrash chills jointpain vomiting highfever headache nausea lossofappetite painbehindtheeyes backpain malaise musclepain redspotsoverbody,3.923
+Dengue,skinrash chills jointpain vomiting fatigue headache nausea lossofappetite painbehindtheeyes backpain malaise musclepain redspotsoverbody,3.692
+Typhoid,chills vomiting fatigue highfever nausea constipation abdominalpain diarrhoea toxiclook(typhos) bellypain,4.7
+Typhoid,chills vomiting fatigue highfever headache constipation abdominalpain diarrhoea toxiclook(typhos) bellypain,4.5
+Typhoid,chills vomiting fatigue highfever headache nausea abdominalpain diarrhoea toxiclook(typhos) bellypain,4.6
+Typhoid,chills vomiting fatigue highfever headache nausea constipation diarrhoea toxiclook(typhos) bellypain,4.6
+Typhoid,chills vomiting fatigue highfever headache nausea constipation abdominalpain toxiclook(typhos) bellypain,4.4
+Typhoid,chills vomiting fatigue highfever headache nausea constipation abdominalpain diarrhoea bellypain,4.5
+Typhoid,chills vomiting fatigue highfever headache nausea constipation abdominalpain diarrhoea toxiclook(typhos),4.6
+Typhoid,chills vomiting fatigue highfever headache nausea constipation abdominalpain diarrhoea toxiclook(typhos) bellypain,4.545
+Typhoid,chills fatigue highfever headache nausea constipation abdominalpain diarrhoea toxiclook(typhos) bellypain,4.5
+hepatitis A,jointpain vomiting yellowishskin darkurine nausea lossofappetite abdominalpain diarrhoea mildfever yellowingofeyes musclepain,4.091
+hepatitis A,vomiting yellowishskin darkurine nausea lossofappetite abdominalpain diarrhoea mildfever yellowingofeyes musclepain,4.2
+hepatitis A,jointpain yellowishskin darkurine nausea lossofappetite abdominalpain diarrhoea mildfever yellowingofeyes musclepain,4.0
+hepatitis A,jointpain vomiting darkurine nausea lossofappetite abdominalpain diarrhoea mildfever yellowingofeyes musclepain,4.2
+hepatitis A,jointpain vomiting yellowishskin nausea lossofappetite abdominalpain diarrhoea mildfever yellowingofeyes musclepain,4.1
+hepatitis A,jointpain vomiting yellowishskin darkurine lossofappetite abdominalpain diarrhoea mildfever yellowingofeyes musclepain,4.0
+hepatitis A,jointpain vomiting yellowishskin darkurine nausea abdominalpain diarrhoea mildfever yellowingofeyes musclepain,4.1
+hepatitis A,jointpain vomiting yellowishskin darkurine nausea lossofappetite diarrhoea mildfever yellowingofeyes musclepain,4.1
+hepatitis A,jointpain vomiting yellowishskin darkurine nausea lossofappetite abdominalpain mildfever yellowingofeyes musclepain,3.9
+Hepatitis B,itching fatigue lethargy yellowishskin darkurine lossofappetite abdominalpain yellowurine yellowingofeyes malaise receivingbloodtransfusion receivingunsterileinjections,3.583
+Hepatitis B,fatigue lethargy yellowishskin darkurine lossofappetite abdominalpain yellowurine yellowingofeyes malaise receivingbloodtransfusion receivingunsterileinjections,3.818
+Hepatitis B,itching lethargy yellowishskin darkurine lossofappetite abdominalpain yellowurine yellowingofeyes malaise receivingbloodtransfusion receivingunsterileinjections,3.545
+Hepatitis B,itching fatigue yellowishskin darkurine lossofappetite abdominalpain yellowurine yellowingofeyes malaise receivingbloodtransfusion receivingunsterileinjections,3.727
+Hepatitis B,itching fatigue lethargy darkurine lossofappetite abdominalpain yellowurine yellowingofeyes malaise receivingbloodtransfusion receivingunsterileinjections,3.636
+Hepatitis B,itching fatigue lethargy yellowishskin lossofappetite abdominalpain yellowurine yellowingofeyes malaise receivingbloodtransfusion receivingunsterileinjections,3.545
+Hepatitis B,itching fatigue lethargy yellowishskin darkurine abdominalpain yellowurine yellowingofeyes malaise receivingbloodtransfusion receivingunsterileinjections,3.545
+Hepatitis B,itching fatigue lethargy yellowishskin darkurine lossofappetite yellowurine yellowingofeyes malaise receivingbloodtransfusion receivingunsterileinjections,3.545
+Hepatitis B,itching fatigue lethargy yellowishskin darkurine lossofappetite abdominalpain yellowingofeyes malaise receivingbloodtransfusion receivingunsterileinjections,3.545
+Hepatitis C,fatigue yellowishskin nausea lossofappetite familyhistory,4.2
+Hepatitis C,fatigue yellowishskin nausea lossofappetite yellowingofeyes familyhistory,4.167
+Hepatitis C,yellowishskin nausea lossofappetite yellowingofeyes familyhistory,4.2
+Hepatitis C,fatigue nausea lossofappetite yellowingofeyes familyhistory,4.4
+Hepatitis C,fatigue yellowishskin lossofappetite yellowingofeyes familyhistory,4.0
+Hepatitis C,fatigue yellowishskin nausea yellowingofeyes familyhistory,4.2
+Hepatitis C,fatigue yellowishskin nausea lossofappetite yellowingofeyes,4.0
+Hepatitis D,jointpain vomiting fatigue yellowishskin darkurine nausea lossofappetite abdominalpain yellowingofeyes,4.0
+Hepatitis D,vomiting fatigue yellowishskin darkurine nausea lossofappetite abdominalpain yellowingofeyes,4.125
+Hepatitis D,jointpain fatigue yellowishskin darkurine nausea lossofappetite abdominalpain yellowingofeyes,3.875
+Hepatitis D,jointpain vomiting yellowishskin darkurine nausea lossofappetite abdominalpain yellowingofeyes,4.0
+Hepatitis D,jointpain vomiting fatigue darkurine nausea lossofappetite abdominalpain yellowingofeyes,4.125
+Hepatitis D,jointpain vomiting fatigue yellowishskin nausea lossofappetite abdominalpain yellowingofeyes,4.0
+Hepatitis D,jointpain vomiting fatigue yellowishskin darkurine lossofappetite abdominalpain yellowingofeyes,3.875
+Hepatitis D,jointpain vomiting fatigue yellowishskin darkurine nausea abdominalpain yellowingofeyes,4.0
+Hepatitis D,jointpain vomiting fatigue yellowishskin darkurine nausea lossofappetite yellowingofeyes,4.0
+Hepatitis D,jointpain vomiting fatigue yellowishskin darkurine nausea lossofappetite abdominalpain,4.0
+Hepatitis E,jointpain vomiting fatigue highfever yellowishskin darkurine nausea lossofappetite abdominalpain yellowingofeyes coma stomachbleeding,4.667
+Hepatitis E,jointpain vomiting fatigue highfever yellowishskin darkurine nausea lossofappetite abdominalpain yellowingofeyes acuteliverfailure coma stomachbleeding,4.769
+Hepatitis E,vomiting fatigue highfever yellowishskin darkurine nausea lossofappetite abdominalpain yellowingofeyes acuteliverfailure coma stomachbleeding,4.917
+Hepatitis E,jointpain fatigue highfever yellowishskin darkurine nausea lossofappetite abdominalpain yellowingofeyes acuteliverfailure coma stomachbleeding,4.75
+Hepatitis E,jointpain vomiting highfever yellowishskin darkurine nausea lossofappetite abdominalpain yellowingofeyes acuteliverfailure coma stomachbleeding,4.833
+Hepatitis E,jointpain vomiting fatigue yellowishskin darkurine nausea lossofappetite abdominalpain yellowingofeyes acuteliverfailure coma stomachbleeding,4.583
+Hepatitis E,jointpain vomiting fatigue highfever darkurine nausea lossofappetite abdominalpain yellowingofeyes acuteliverfailure coma stomachbleeding,4.917
+Hepatitis E,jointpain vomiting fatigue highfever yellowishskin nausea lossofappetite abdominalpain yellowingofeyes acuteliverfailure coma stomachbleeding,4.833
+Hepatitis E,jointpain vomiting fatigue highfever yellowishskin darkurine lossofappetite abdominalpain yellowingofeyes acuteliverfailure coma stomachbleeding,4.75
+Alcoholic hepatitis,vomiting yellowishskin abdominalpain swellingofstomach distentionofabdomen historyofalcoholconsumption fluidoverload,4.571
+Alcoholic hepatitis,yellowishskin abdominalpain swellingofstomach distentionofabdomen historyofalcoholconsumption fluidoverload,4.5
+Alcoholic hepatitis,vomiting abdominalpain swellingofstomach distentionofabdomen historyofalcoholconsumption fluidoverload,4.833
+Alcoholic hepatitis,vomiting yellowishskin swellingofstomach distentionofabdomen historyofalcoholconsumption fluidoverload,4.667
+Alcoholic hepatitis,vomiting yellowishskin abdominalpain distentionofabdomen historyofalcoholconsumption fluidoverload,4.167
+Alcoholic hepatitis,vomiting yellowishskin abdominalpain swellingofstomach historyofalcoholconsumption fluidoverload,4.667
+Alcoholic hepatitis,vomiting yellowishskin abdominalpain swellingofstomach distentionofabdomen fluidoverload,4.5
+Alcoholic hepatitis,vomiting yellowishskin abdominalpain swellingofstomach distentionofabdomen historyofalcoholconsumption,4.667
+Tuberculosis,chills vomiting fatigue weightloss cough highfever breathlessness sweating lossofappetite mildfever yellowingofeyes swelledlymphnodes malaise phlegm chestpain bloodinsputum,4.688
+Tuberculosis,vomiting fatigue weightloss cough highfever breathlessness sweating lossofappetite mildfever yellowingofeyes swelledlymphnodes malaise phlegm chestpain bloodinsputum,4.8
+Tuberculosis,chills fatigue weightloss cough highfever breathlessness sweating lossofappetite mildfever yellowingofeyes swelledlymphnodes malaise phlegm chestpain bloodinsputum,4.667
+Tuberculosis,chills vomiting weightloss cough highfever breathlessness sweating lossofappetite mildfever yellowingofeyes swelledlymphnodes malaise phlegm chestpain bloodinsputum,4.733
+Tuberculosis,chills vomiting fatigue cough highfever breathlessness sweating lossofappetite mildfever yellowingofeyes swelledlymphnodes malaise phlegm chestpain bloodinsputum,4.8
+Tuberculosis,chills vomiting fatigue weightloss highfever breathlessness sweating lossofappetite mildfever yellowingofeyes swelledlymphnodes malaise phlegm chestpain bloodinsputum,4.733
+Tuberculosis,chills vomiting fatigue weightloss cough breathlessness sweating lossofappetite mildfever yellowingofeyes swelledlymphnodes malaise phlegm chestpain bloodinsputum,4.533
+Tuberculosis,chills vomiting fatigue weightloss cough highfever sweating lossofappetite mildfever yellowingofeyes swelledlymphnodes malaise phlegm chestpain bloodinsputum,4.733
+Tuberculosis,chills vomiting fatigue weightloss cough highfever breathlessness lossofappetite mildfever yellowingofeyes swelledlymphnodes malaise phlegm chestpain bloodinsputum,4.8
+Common Cold,continuoussneezing chills fatigue cough highfever headache swelledlymphnodes malaise phlegm throatirritation rednessofeyes sinuspressure runnynose congestion chestpain lossofsmell musclepain,4.529
+Common Cold,chills fatigue cough highfever headache swelledlymphnodes malaise phlegm throatirritation rednessofeyes sinuspressure runnynose congestion chestpain lossofsmell musclepain,4.562
+Common Cold,continuoussneezing fatigue cough highfever headache swelledlymphnodes malaise phlegm throatirritation rednessofeyes sinuspressure runnynose congestion chestpain lossofsmell musclepain,4.625
+Common Cold,continuoussneezing chills cough highfever headache swelledlymphnodes malaise phlegm throatirritation rednessofeyes sinuspressure runnynose congestion chestpain lossofsmell musclepain,4.562
+Common Cold,continuoussneezing chills fatigue highfever headache swelledlymphnodes malaise phlegm throatirritation rednessofeyes sinuspressure runnynose congestion chestpain lossofsmell musclepain,4.562
+Common Cold,continuoussneezing chills fatigue cough headache swelledlymphnodes malaise phlegm throatirritation rednessofeyes sinuspressure runnynose congestion chestpain lossofsmell musclepain,4.375
+Common Cold,continuoussneezing chills fatigue cough highfever swelledlymphnodes malaise phlegm throatirritation rednessofeyes sinuspressure runnynose congestion chestpain lossofsmell musclepain,4.625
+Common Cold,continuoussneezing chills fatigue cough highfever headache malaise phlegm throatirritation rednessofeyes sinuspressure runnynose congestion chestpain lossofsmell musclepain,4.438
+Common Cold,continuoussneezing chills fatigue cough highfever headache swelledlymphnodes phlegm throatirritation rednessofeyes sinuspressure runnynose congestion chestpain lossofsmell musclepain,4.438
+Pneumonia,chills fatigue cough highfever breathlessness sweating malaise chestpain fastheartrate rustysputum,4.7
+Pneumonia,chills fatigue cough highfever breathlessness sweating malaise phlegm chestpain fastheartrate rustysputum,4.727
+Pneumonia,fatigue cough highfever breathlessness sweating malaise phlegm chestpain fastheartrate rustysputum,4.9
+Pneumonia,chills cough highfever breathlessness sweating malaise phlegm chestpain fastheartrate rustysputum,4.8
+Pneumonia,chills fatigue highfever breathlessness sweating malaise phlegm chestpain fastheartrate rustysputum,4.8
+Pneumonia,chills fatigue cough breathlessness sweating malaise phlegm chestpain fastheartrate rustysputum,4.5
+Pneumonia,chills fatigue cough highfever sweating malaise phlegm chestpain fastheartrate rustysputum,4.8
+Pneumonia,chills fatigue cough highfever breathlessness malaise phlegm chestpain fastheartrate rustysputum,4.9
+Pneumonia,chills fatigue cough highfever breathlessness sweating phlegm chestpain fastheartrate rustysputum,4.6
+Dimorphic hemmorhoids(piles),constipation painduringbowelmovements paininanalregion bloodystool irritationinanus,5.2
+Dimorphic hemmorhoids(piles),painduringbowelmovements paininanalregion bloodystool irritationinanus,5.5
+Dimorphic hemmorhoids(piles),constipation paininanalregion bloodystool irritationinanus,5.25
+Dimorphic hemmorhoids(piles),constipation painduringbowelmovements bloodystool irritationinanus,5.0
+Dimorphic hemmorhoids(piles),constipation painduringbowelmovements paininanalregion irritationinanus,5.25
+Dimorphic hemmorhoids(piles),constipation painduringbowelmovements paininanalregion bloodystool,5.0
+Heart attack,vomiting breathlessness sweating chestpain,4.75
+Heart attack,breathlessness sweating chestpain,4.667
+Heart attack,vomiting sweating chestpain,5.0
+Heart attack,vomiting breathlessness chestpain,5.333
+Heart attack,vomiting breathlessness sweating,4.0
+Varicose veins,fatigue cramps bruising obesity swollenlegs swollenbloodvessels prominentveinsoncalf,4.571
+Varicose veins,cramps bruising obesity swollenlegs swollenbloodvessels prominentveinsoncalf,4.667
+Varicose veins,fatigue bruising obesity swollenlegs swollenbloodvessels prominentveinsoncalf,4.667
+Varicose veins,fatigue cramps obesity swollenlegs swollenbloodvessels prominentveinsoncalf,4.667
+Varicose veins,fatigue cramps bruising swollenlegs swollenbloodvessels prominentveinsoncalf,4.667
+Varicose veins,fatigue cramps bruising obesity swollenbloodvessels prominentveinsoncalf,4.5
+Varicose veins,fatigue cramps bruising obesity swollenlegs prominentveinsoncalf,4.5
+Varicose veins,fatigue cramps bruising obesity swollenlegs swollenbloodvessels,4.333
+Hypothyroidism,fatigue weightgain coldhandsandfeets moodswings lethargy dizziness puffyfaceandeyes enlargedthyroid brittlenails swollenextremeties depression irritability abnormalmenstruation,4.077
+Hypothyroidism,weightgain coldhandsandfeets moodswings lethargy dizziness puffyfaceandeyes enlargedthyroid brittlenails swollenextremeties depression irritability abnormalmenstruation,4.083
+Hypothyroidism,fatigue coldhandsandfeets moodswings lethargy dizziness puffyfaceandeyes enlargedthyroid brittlenails swollenextremeties depression irritability abnormalmenstruation,4.167
+Hypothyroidism,fatigue weightgain moodswings lethargy dizziness puffyfaceandeyes enlargedthyroid brittlenails swollenextremeties depression irritability abnormalmenstruation,4.0
+Hypothyroidism,fatigue weightgain coldhandsandfeets lethargy dizziness puffyfaceandeyes enlargedthyroid brittlenails swollenextremeties depression irritability abnormalmenstruation,4.167
+Hypothyroidism,fatigue weightgain coldhandsandfeets moodswings dizziness puffyfaceandeyes enlargedthyroid brittlenails swollenextremeties depression irritability abnormalmenstruation,4.25
+Hypothyroidism,fatigue weightgain coldhandsandfeets moodswings lethargy puffyfaceandeyes enlargedthyroid brittlenails swollenextremeties depression irritability abnormalmenstruation,4.083
+Hypothyroidism,fatigue weightgain coldhandsandfeets moodswings lethargy dizziness enlargedthyroid brittlenails swollenextremeties depression irritability abnormalmenstruation,4.0
+Hyperthyroidism,fatigue moodswings weightloss restlessness sweating diarrhoea fastheartrate excessivehunger muscleweakness irritability abnormalmenstruation,3.909
+Hyperthyroidism,moodswings weightloss restlessness sweating diarrhoea fastheartrate excessivehunger muscleweakness irritability abnormalmenstruation,3.9
+Hyperthyroidism,fatigue weightloss restlessness sweating diarrhoea fastheartrate excessivehunger muscleweakness irritability abnormalmenstruation,4.0
+Hyperthyroidism,fatigue moodswings restlessness sweating diarrhoea fastheartrate excessivehunger muscleweakness irritability abnormalmenstruation,4.0
+Hyperthyroidism,fatigue moodswings weightloss sweating diarrhoea fastheartrate excessivehunger muscleweakness irritability abnormalmenstruation,3.8
+Hyperthyroidism,fatigue moodswings weightloss restlessness diarrhoea fastheartrate excessivehunger muscleweakness irritability abnormalmenstruation,4.0
+Hyperthyroidism,fatigue moodswings weightloss restlessness sweating fastheartrate excessivehunger muscleweakness irritability abnormalmenstruation,3.7
+Hyperthyroidism,fatigue moodswings weightloss restlessness sweating diarrhoea excessivehunger muscleweakness irritability abnormalmenstruation,3.8
+Hyperthyroidism,fatigue moodswings weightloss restlessness sweating diarrhoea fastheartrate muscleweakness irritability abnormalmenstruation,3.9
+Hypoglycemia,vomiting fatigue anxiety sweating headache nausea blurredanddistortedvision excessivehunger slurredspeech irritability palpitations,3.909
+Hypoglycemia,vomiting fatigue anxiety sweating headache nausea blurredanddistortedvision excessivehunger dryingandtinglinglips slurredspeech irritability palpitations,3.917
+Hypoglycemia,fatigue anxiety sweating headache nausea blurredanddistortedvision excessivehunger dryingandtinglinglips slurredspeech irritability palpitations,3.818
+Hypoglycemia,vomiting anxiety sweating headache nausea blurredanddistortedvision excessivehunger dryingandtinglinglips slurredspeech irritability palpitations,3.909
+Hypoglycemia,vomiting fatigue sweating headache nausea blurredanddistortedvision excessivehunger dryingandtinglinglips slurredspeech irritability palpitations,3.909
+Hypoglycemia,vomiting fatigue anxiety headache nausea blurredanddistortedvision excessivehunger dryingandtinglinglips slurredspeech irritability palpitations,4.0
+Hypoglycemia,vomiting fatigue anxiety sweating nausea blurredanddistortedvision excessivehunger dryingandtinglinglips slurredspeech irritability palpitations,4.0
+Hypoglycemia,vomiting fatigue anxiety sweating headache blurredanddistortedvision excessivehunger dryingandtinglinglips slurredspeech irritability palpitations,3.818
+Hypoglycemia,vomiting fatigue anxiety sweating headache nausea excessivehunger dryingandtinglinglips slurredspeech irritability palpitations,3.818
+Osteoarthristis,jointpain neckpain kneepain hipjointpain swellingjoints painfulwalking,3.333
+Osteoarthristis,neckpain kneepain hipjointpain swellingjoints painfulwalking,3.4
+Osteoarthristis,jointpain kneepain hipjointpain swellingjoints painfulwalking,3.0
+Osteoarthristis,jointpain neckpain hipjointpain swellingjoints painfulwalking,3.4
+Osteoarthristis,jointpain neckpain kneepain swellingjoints painfulwalking,3.6
+Osteoarthristis,jointpain neckpain kneepain hipjointpain painfulwalking,3.0
+Osteoarthristis,jointpain neckpain kneepain hipjointpain swellingjoints,3.6
+Arthritis,muscleweakness stiffneck swellingjoints movementstiffness painfulwalking,3.6
+Arthritis,stiffneck swellingjoints movementstiffness painfulwalking,4.0
+Arthritis,muscleweakness swellingjoints movementstiffness painfulwalking,3.5
+Arthritis,muscleweakness stiffneck movementstiffness painfulwalking,3.25
+Arthritis,muscleweakness stiffneck swellingjoints painfulwalking,3.25
+Arthritis,muscleweakness stiffneck swellingjoints movementstiffness,4.0
+(vertigo) Paroymsal  Positional Vertigo,vomiting headache nausea spinningmovements lossofbalance unsteadiness,4.5
+(vertigo) Paroymsal  Positional Vertigo,headache nausea spinningmovements lossofbalance unsteadiness,4.4
+(vertigo) Paroymsal  Positional Vertigo,vomiting nausea spinningmovements lossofbalance unsteadiness,4.8
+(vertigo) Paroymsal  Positional Vertigo,vomiting headache spinningmovements lossofbalance unsteadiness,4.4
+(vertigo) Paroymsal  Positional Vertigo,vomiting headache nausea lossofbalance unsteadiness,4.2
+(vertigo) Paroymsal  Positional Vertigo,vomiting headache nausea spinningmovements unsteadiness,4.6
+(vertigo) Paroymsal  Positional Vertigo,vomiting headache nausea spinningmovements lossofbalance,4.6
+Acne,skinrash pusfilledpimples blackheads scurring,2.25
+Acne,pusfilledpimples blackheads scurring,2.0
+Acne,skinrash blackheads scurring,2.333
+Acne,skinrash pusfilledpimples scurring,2.333
+Acne,skinrash pusfilledpimples blackheads,2.333
+Urinary tract infection,burningmicturition bladderdiscomfort foulsmellof urine continuousfeelofurine,4.0
+Urinary tract infection,bladderdiscomfort foulsmellof urine continuousfeelofurine,3.333
+Urinary tract infection,burningmicturition foulsmellof urine continuousfeelofurine,4.0
+Urinary tract infection,burningmicturition bladderdiscomfort continuousfeelofurine,5.333
+Urinary tract infection,burningmicturition bladderdiscomfort foulsmellof urine,3.333
+Psoriasis,skinrash jointpain skinpeeling silverlikedusting smalldentsinnails inflammatorynails,2.5
+Psoriasis,jointpain skinpeeling silverlikedusting smalldentsinnails inflammatorynails,2.4
+Psoriasis,skinrash skinpeeling silverlikedusting smalldentsinnails inflammatorynails,2.4
+Psoriasis,skinrash jointpain silverlikedusting smalldentsinnails inflammatorynails,2.4
+Psoriasis,skinrash jointpain skinpeeling smalldentsinnails inflammatorynails,2.6
+Psoriasis,skinrash jointpain skinpeeling silverlikedusting inflammatorynails,2.6
+Psoriasis,skinrash jointpain skinpeeling silverlikedusting smalldentsinnails,2.6
+Impetigo,skinrash highfever blister redsorearoundnose yellowcrustooze,3.8
+Impetigo,highfever blister redsorearoundnose yellowcrustooze,4.0
+Impetigo,skinrash blister redsorearoundnose yellowcrustooze,3.0
+Impetigo,skinrash highfever redsorearoundnose yellowcrustooze,3.75
+Impetigo,skinrash highfever blister yellowcrustooze,4.25
+Impetigo,skinrash highfever blister redsorearoundnose,4.0

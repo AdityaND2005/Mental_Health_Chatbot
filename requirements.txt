@@ -22,6 +22,7 @@ streamlit>=1.32.0
 python-dotenv>=1.0.0
 tqdm>=4.66.1
 numpy>=1.24.3
+pandas>=2.0.0
 pillow>=10.0.0
 requests>=2.31.0
 pyyaml>=6.0.0
@@ -31,10 +32,19 @@ tokenizers>=0.15.0
 
 # ============ OPTIONAL: ONNX OPTIMIZATION ============
 # Uncomment for 2-3x faster embeddings (mobile optimization)
-onnxruntime>=1.16.0
-optimum>=1.14.0
+# onnxruntime>=1.16.0
+# optimum>=1.14.0
 
 # ============ OPTIONAL: GPU QUANTIZATION ============
 # Only for CUDA GPU (mobile devices typically use CPU or NPU)
 # bitsandbytes>=0.41.1
 # accelerate>=0.24.1
+
+# Model Explainability
+lime>=0.2.0.1
+
+# Visualization
+matplotlib>=3.7.0
+
+# PDF Generation
+reportlab>=4.0.0
